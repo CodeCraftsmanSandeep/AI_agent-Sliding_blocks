@@ -1,8 +1,15 @@
-# AI Agent: Sliding Blocks Solver  
+# AI Agent: Sliding Blocks Solver
+
+Welcome to the **Sliding Blocks Solver**! 🧩
+This project brings together **classic puzzle fun** and **artificial intelligence**. Watch as an AI agent uses the **A\*** search algorithm to crack the 3×3 sliding blocks puzzle, step by step, finding the optimal path to victory.
+
+Whether you’re here to explore **AI search algorithms**, learn about **heuristics**, or just see a puzzle get solved intelligently, you’re in the right place!
 
 ## Overview  
 
-This project implements an AI agent to solve the **Sliding Blocks Puzzle** using the **A\*** search algorithm. The puzzle consists of a 3×3 grid with numbered blocks (0–8), where **0 represents the empty space**. The goal is to rearrange the blocks from a given initial configuration into the standard goal configuration by swapping the empty space with adjacent blocks.  
+This project genereates sliding blocks, and then builds AI agent solver. The AI agent solves the **Sliding Blocks Puzzle** using the **A\*** search algorithm. The puzzle consists of a 3×3 grid with numbered blocks (0–8), where **0 represents the empty space**. The goal is to rearrange the blocks from a given initial configuration into the standard goal configuration by swapping the empty space with adjacent blocks.  
+
+
 
 ### Goal Configuration:  
 
